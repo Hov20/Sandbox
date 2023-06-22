@@ -1,0 +1,30 @@
+
+body{ 
+max-width: 600px;
+margin: 10px auto;
+background-color: #ebf1f1;
+padding: 10px;
+border-radius: 50px;
+}
+
+#vernagir{
+    text-align: center;
+}
+
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    font-weight: bold;
+    text-decoration: underline;
+}
+#foll{
+    color: rgb(155, 155, 216);
+}
+
+#nkar{
+    font-size: small;
+}
+
+
